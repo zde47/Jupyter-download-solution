@@ -34,7 +34,7 @@ C:\jupyterenv\Scripts\activate
 jupyter notebook
 
 **requirements為常用套件**  
-可以在虛擬環境內安裝，之後的project都可使用，須先把檔案放到路徑中  
+可以在虛擬環境內安裝，之後的project都可使用，須先把檔案放到路徑中   
 在cmd cd 到對應的路徑輸入：  
 pip install -r requirements.txt
 
