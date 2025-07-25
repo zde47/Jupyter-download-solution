@@ -27,4 +27,9 @@ import os
 找到
 c.ServerApp.use_redirect_file = True 並改成 c.ServerApp.use_redirect_file = False
 
-**用.bat檔開啟時需要右鍵->以系統管理員執行**
+**(.bat檔可放桌面)用.bat檔開啟時需要右鍵->以系統管理員執行**  
+**手動啟動**  
+cd C:\  
+C:\jupyterenv\Scripts\activate   
+jupyter notebook
+
