@@ -13,16 +13,13 @@ C:\jupyterenv\Scripts\activate
 
 pip install jupyter
 
-**更新 Jupyter 相關套件（推薦，排除潛在 Bug）：**
-
+**更新 Jupyter 相關套件（推薦，排除潛在 Bug）：**  
 pip install --upgrade jupyter notebook jupyterlab
 
-**生成 Jupyter 配置文件（如果尚未生成）：**
-
+**生成 Jupyter 配置文件（如果尚未生成）：**  
 jupyter notebook --generate-config (可以直接找找看)
 
-**文件頂部導入OS：**
-
+**文件頂部導入OS：**  
 import os
 在C:\\Users\\使用者名稱加入文件夾temp_jupyter_runtime_data
 
