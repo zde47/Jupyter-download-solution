@@ -1,6 +1,7 @@
 # Jupyter-download-solution
 
 **需要以系統管理員執行**
+
 因路徑限制直接在cmd打指令會錯誤，改用虛擬環境減少路徑長度
 
 cd C:\  # 切換到根目錄
