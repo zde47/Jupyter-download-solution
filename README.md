@@ -1,7 +1,7 @@
 # Jupyter-download-solution
 
 **需要以系統管理員執行**
-因路徑限制直接在cmd打指令會錯誤，改用虛擬環境減少路徑長度
+因路徑限制直接在cmd打指令會錯誤，改用虛擬環境減少路徑長度\n
 cd C:\  # 切換到根目錄
 python -m venv jupyterenv
 C:\jupyterenv\Scripts\activate
